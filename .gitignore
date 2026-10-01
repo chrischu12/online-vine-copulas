@@ -1,0 +1,15 @@
+uk_load/*
+.conda/*
+.ipynb_checkpoints
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.env
+residuals_data_final_all.csv
+CLAUDE.md
+.claude/
+/reports/
+
+# Machine-local output root (see application/local_path_example.py)
+application/local_path.py

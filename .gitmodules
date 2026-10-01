@@ -1,0 +1,8 @@
+[submodule "VineCopulas"]
+	path = VineCopulas
+	url = https://github.com/chrischu12/VineCopulas.git
+	branch = dev
+[submodule "ondil"]
+	path = ondil
+	url = https://github.com/chrischu12/ondil.git
+	branch = bivariate_copula
